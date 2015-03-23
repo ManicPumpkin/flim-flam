@@ -1,0 +1,8 @@
+secretfile filter=git-crypt diff=git-crypt
+*.key filter=git-crypt diff=git-crypt
+*.txt filter=git-crypt diff=git-crypt
+*.jpg filter=git-crypt diff=git-crypt
+*.png filter=git-crypt diff=git-crypt
+*.cpp filter=git-crypt diff=git-crypt
+*.cc  filter=git-crypt diff=git-crypt
+*.h   filter=git-crypt diff=git-crypt
