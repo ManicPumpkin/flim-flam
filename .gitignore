@@ -27,5 +27,6 @@
 *.out
 *.app
 
-# Project folders
+# Folders
+RemoteSystemsTempFiles/
 bb/
